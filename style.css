@@ -73,3 +73,39 @@ a{
 button{
     border-radius: 5px;
 }
+/*PartA*/
+.PartA{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    padding-top: 30px ;
+    padding-bottom: 80px;
+}
+.PAheading{
+    color: #1F2937;
+    font-weight: bolder;
+    font-size: 36px;
+}
+.PAcontent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+.illu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #1F2937;
+    font-size: 18px;
+    text-align: center;
+    width: 200px;
+    gap: 10px;
+}
+
+.square{
+    height: 50px;
+    width: 50px;
+    border-color: #3882F6;
+}
