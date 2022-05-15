@@ -119,3 +119,31 @@ button{
 .PBcontent2{
     font-weight: bolder;
 }
+/*PartC*/
+.PartC{
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    padding: 80px 160px 80px 160px;
+}
+.blue{
+    flex:1;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    gap:60px;
+    padding: 40px 80px 40px 80px;
+    border-radius: 5px;
+    color: #E5E7EB;
+}
+.PCheading{
+    font-weight: bold;
+}
+.PCcontent{
+    font-size: 12px;
+}
+#lowerbtn{
+    background-color: #3882F6;
+    border-color: #E5E7EB;
+    color: #E5E7EB;
+}
