@@ -147,3 +147,11 @@ button{
     border-color: #E5E7EB;
     color: #E5E7EB;
 }
+/*footer*/
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+    font-size: 18px;
+}
